@@ -1,3 +1,5 @@
+///此範例是在BGR模式下對圖片顏色進行調整///
+
 import cv2
 
 img = cv2.imread("圖片路徑")
